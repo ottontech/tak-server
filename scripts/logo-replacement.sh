@@ -9,7 +9,7 @@ jar 2>/dev/null
 
 if [ $? -ne 0 ];
 then
-	sudo apt-get install openjdk-11-jdk -y
+	sudo apt-get install openjdk-17-jdk -y
 fi
 
 convert >/dev/null

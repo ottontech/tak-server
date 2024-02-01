@@ -1,0 +1,9 @@
+.env
+*.war
+takserver-*.zip
+tak/
+investigation/
+originalWAR/
+chatbot/
+server.pref
+manifest.xml
